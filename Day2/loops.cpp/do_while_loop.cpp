@@ -4,7 +4,7 @@ int main(){
     int index=0;
     do{
         cout<<"you are at index:" << index<<endl;
-        index++;
+        ++index;
     }while(index<35);
     return 0;
 }
