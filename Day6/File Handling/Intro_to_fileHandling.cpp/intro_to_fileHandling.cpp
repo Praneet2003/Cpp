@@ -33,7 +33,7 @@ int main(){
     ifstream myReadfile("filename.txt");//Read from text file.
     //use a while loop together with the getline() function to read the file line by line.
     while (getline (myReadfile,myText)){
-        cout<< "MyText";//Output from the text file.
+        cout<< "MyText";//Output from the text file...
     }
     return 0;
 }
