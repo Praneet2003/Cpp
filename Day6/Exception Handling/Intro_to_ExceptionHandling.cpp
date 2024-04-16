@@ -13,7 +13,7 @@
 //   throw exception; // Throw an exception when a problem arise
 // }
 // catch () {
-//    Block of code to handle errors
+//    Block of code to handle errors.
 // }
 //Eg:-
 #include<iostream>
