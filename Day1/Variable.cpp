@@ -12,7 +12,7 @@
 using namespace std;
 int main(){
     int X;
-    cout << Enter the value of X';
+    cout << "Enter the value of X: ";
 
 
 }
