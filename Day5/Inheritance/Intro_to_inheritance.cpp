@@ -28,4 +28,4 @@ int main() {
   return 0;
 }
 //need  of Inheritance:-
-// it is useful for code reuseability,reuses attributes and methods of an existing class, when you create a new class.
+// it is useful for code reuseability,reuses attributes and methods of an existing class, when you create a new class.. 
